@@ -46,13 +46,12 @@ button:hover {
   width: 320px;
   height: 80px;
   padding: 8px;
-  overflow: hidden;
+  overflow-x: auto;
   background-color: #3e022a;
   font-size: 32px;
   line-height: 2;
   color: #84e4e7;
   text-align: right;
-  direction: rtl;
   white-space: nowrap;
   box-sizing: border-box;
 }
